@@ -30,7 +30,7 @@ git push
 
 ## Not so common commands
 ```
-git log --graph --decorate --pretty=oneline --abbrev-commit
+git log --graph --decorate --pretty=oneline --abbrev-commit --10
 ```
 
 **branch**
